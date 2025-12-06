@@ -91,5 +91,5 @@ Example:
 
 ## Author
 
-**Mukesh Krishna**  
+**Mukesh Krishna Rayudu**  
 B.Tech CSE (AI & ML)
